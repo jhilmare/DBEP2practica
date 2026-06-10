@@ -4,7 +4,11 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.prueab2"
+=======
+    namespace = "com.example.pruebas"
+>>>>>>> 6a5c9958ceb6c57a45a800df65eceb154950f45f
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,7 +16,11 @@ android {
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.example.prueab2"
+=======
+        applicationId = "com.example.pruebas"
+>>>>>>> 6a5c9958ceb6c57a45a800df65eceb154950f45f
         minSdk = 24
         targetSdk = 36
         versionCode = 1

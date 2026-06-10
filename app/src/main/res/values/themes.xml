@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.Prueab2" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.Pruebas" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 6a5c9958ceb6c57a45a800df65eceb154950f45f
 </resources>
